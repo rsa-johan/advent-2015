@@ -27,4 +27,4 @@ defmodule Main do
   end
 end
 
-Main.main("input-2.txt")
+Main.main("input.txt")
